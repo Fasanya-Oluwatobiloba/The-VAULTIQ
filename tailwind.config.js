@@ -16,7 +16,9 @@ module.exports = {
         "half": "#E84848",
         "full": "#E6E6E6",
         "forgot": "#175CD3",
-        "border": "rgba(142, 142, 147, 0.56)"
+        "ablack": "#111111",
+        "welcome-button": "#175CD3",
+        "border": "rgba(142, 142, 147, 0.56)",
       }
     },
   },
